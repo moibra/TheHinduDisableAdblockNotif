@@ -3,4 +3,4 @@ Blocks the Disable Adblocker dialog and can view pages in the website keeping th
 
 Add the Chrome Extension [Run Javascript](https://chrome.google.com/webstore/detail/run-javascript/lmilalhkkdhfieeienjbiicclobibjao?hl=en)
 
-Input the 3 line code from code.js and Save and Run and enable on the newspaper website.
+Input the 3 line code from code.js and Save and Run and enable it on the newspaper's website.
